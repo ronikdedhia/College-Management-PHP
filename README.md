@@ -91,15 +91,6 @@ College-Management-PHP/
 └── composer.json
 ```
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| _(screenshot placeholder)_ | College homepage |
-| _(screenshot placeholder)_ | Admin dashboard |
-| _(screenshot placeholder)_ | Student portal — attendance & results |
-| _(screenshot placeholder)_ | Teacher portal — salary & timetable |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
